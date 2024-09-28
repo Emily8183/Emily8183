@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Emily Lin!
+## 🎤About Me:
 
 ## 💻 Full-Stack Developer | 🌐 Product Development | 👨‍👨‍👧‍👧 Project Management Enthusiast
 - **Portfolio (More Features Coming Soon)**: https://emily.brajk.me/ 
