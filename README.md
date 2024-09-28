@@ -19,6 +19,8 @@
 ### 🤝 I am consistently sharing my self-learning journey. Welcome to follow my GitHub!
 
 _"Alone we can do so little; together we can do so much."_  
+
+ [Medium](https://github-read-medium-nh6kainks-emily8183s-projects.vercel.app/latest?username=emily.zy.lin)
   
 
 
