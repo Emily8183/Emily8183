@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Emily Lin!
 
-<!--
-**Emily8183/Emily8183** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Full-Stack Developer | 🌐 Product Development | 👨‍👨‍👧‍👧 Project Management Enthusiast
+- **Portfolio (More Features Coming Soon)**: https://emily.brajk.me/ 
+- **Blog@Medium**: https://medium.com/@emily.zy.lin
+- **LeetCode WIP**: https://github.com/Emily8183/leetcodeWithJava
+- **Xiaohongshu 小红书**: 艾米莉的转码刷题日记本 
+---
+## 🌟 Open to work and ready for hiring opportunities! 📬[Click Here to Contact](https://emily.brajk.me/contact)
+- 🔍 **Quickly understand** the context behind each project
+- 🤝 **Foster seamless** team collaboration
+- 🚀 **Consistently deliver** high-quality results within deadlines
+- 🧠 **Skilled in** problem-solving & fast-learning
+- 👩‍💻 **Full-stack development** experience
+---
+## 🤝 I am consistently sharing my self-learning journey. Feel free to follow along!
 
-Here are some ideas to get you started:
+_"Alone we can do so little; together we can do so much."_  
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
