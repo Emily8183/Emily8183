@@ -3,7 +3,7 @@
 ### 💻 Full-Stack Web Developer | 🌐 Product Development | 👨‍👨‍👧‍👧 Project Management
 - **Portfolio (More Features Coming Soon)**: https://emily.brajk.me/ 
 - **Blog@Medium**: https://medium.com/@emily.zy.lin
-- **LeetCode WIP**: https://github.com/Emily8183/leetcodeWithJava
+- **LeetCode Profile**: https://leetcode.com/u/Emily8183/
 - **Xiaohongshu 小红书**: [艾米莉的转码刷题日记本](https://www.xiaohongshu.com/user/profile/62563076000000000d03007c?xhsshare=CopyLink&appuid=62563076000000000d03007c&apptime=1709323760)
 ---
 ### 🌟 Open to work and ready for hiring opportunities! 📬[Click Here to Contact](https://emily.brajk.me/contact)
