@@ -2,7 +2,7 @@
 
 ### 💻 Full-Stack Web Developer | 🌐 Product Development | 👨‍👨‍👧‍👧 Project Management
 - **Portfolio**: https://emily.brajk.me/
-- **LeetCompare**(LeetCode Comparison Tool): https://emily.brajk.me/leetcode/comparisons
+- **LeetCompare(LeetCode Comparison Tool)**: https://emily.brajk.me/leetcode/comparisons
 - **Blog@Medium**: https://medium.com/@emily.zy.lin
 - **LeetCode Profile**: https://leetcode.com/u/Emily8183/
 - **RedNote 小红书**: [艾米莉的转码刷题日记本](https://www.xiaohongshu.com/user/profile/62563076000000000d03007c?xhsshare=CopyLink&appuid=62563076000000000d03007c&apptime=1709323760)
